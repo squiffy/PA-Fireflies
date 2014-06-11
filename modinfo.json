@@ -1,0 +1,18 @@
+{
+    "context": "server",
+    "identifier": "com.squiffypwn.firefly",
+    "display_name": "Fireflies only",
+    "description": "Only fireflies and the bare essentials.",
+    "author": "squiffy",
+    "version": "1.0",
+    "build": "67099",
+    "date": "2014/06/10",
+    "signature": "not yet implemented",
+    "forum": "#",
+    "category": [
+        "game mode"
+    ],
+    "id": "fireflies",
+    "priority": 100,
+    "enabled": true
+}
